@@ -8,7 +8,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hasnain12340&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 
-
+ <a href="https://www.youtube.com/@Hasnain12333">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
 
 <div>
   <h5>I'm Good At</h5>
