@@ -37,8 +37,6 @@
 </div>
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasnain12340&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 Support Me by a Follow Please
 <!---
 Hasnain12340/Hasnain12340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
